@@ -1,4 +1,4 @@
-# godot_universal_variant_converter
+# Universal Variant Converter
 Makes it easier to save and load variants with JSON.
 
 Provides some functions you can use in your save/load functions.
